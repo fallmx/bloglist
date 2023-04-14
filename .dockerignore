@@ -1,0 +1,15 @@
+.git
+.dockerignore
+.env
+.gitignore
+docker-compose.yml
+Dockerfile
+fly.toml
+*/node_modules
+*/.gitignore
+*/.env
+*/.eslintignore
+*/.eslintrc.js
+*/.prettierignore
+*/.prettierrc.json
+*/build

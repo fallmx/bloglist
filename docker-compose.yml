@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  bloglist:
+    image: bloglist
+    ports:
+      - 3003:8080
+    environment:
+      MONGODB_URI: "${MONGODB_URI}"
+      PORT: "${PORT}"
+      SECRET: "${SECRET}"

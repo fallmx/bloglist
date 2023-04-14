@@ -1,0 +1,42 @@
+.notification {
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+.blog {
+  padding-top: 10px;
+  padding-left: 2px;
+  border: solid;
+  border-width: 1px;
+  margin-bottom: 5px;
+}
+
+.navigation {
+  background-color: lightgray;
+  padding: 5px;
+}
+
+.login-form {
+  max-width: 500px;
+  margin: auto;
+}
+
+Button {
+  margin: 10px 10px 10px 0px;
+}
+
+.blog-form {
+  max-width: 500px;
+}
